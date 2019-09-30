@@ -1,0 +1,16 @@
+---
+title: artsypeach Shirts
+subtitle: Shirt Print
+layout: default
+modal-id: 1
+date: 2019-07-31
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: artsypeach Lineart Shirts
+project-date: July 2019
+client: artsypeach
+clientlink: https://instagram.com/artsypeach
+buylink: https://artsypeach.com
+description: TODO: description
+
+---
