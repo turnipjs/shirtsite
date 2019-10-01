@@ -6,10 +6,11 @@
   position: absolute;
   overflow: hidden;
   z-index: 0;
+  height: 100%;
 }
 
 .fullscreen-bg__video {
-  width: 100vw;
+
 }
 
 header>div.container {
