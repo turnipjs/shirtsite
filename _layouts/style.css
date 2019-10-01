@@ -3,16 +3,23 @@
 {{ content }}
 
 .fullscreen-bg {
+  z-index: -1;
   position: absolute;
   overflow: hidden;
-  z-index: 0;
   height: 100%;
 }
 
 .fullscreen-bg__video {
-
+  position: fixed;
+  left: 0;
+  min-width: 100vw;
+  overflow: hidden;
 }
 
 header>div.container {
   z-index: 1;
+}
+
+.bg-white {
+  background-color: white;
 }
