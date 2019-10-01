@@ -1,11 +1,11 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Lineart Shirts
+subtitle: For artsypeach
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: artsypeach-lineart.jpg
+thumbnail: artsypeach-lineart-thumbnail.jpg
 alt: artsypeach Lineart Shirts
 project-date: August 2019
 client: artsypeach
