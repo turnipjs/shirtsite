@@ -23,3 +23,7 @@ header>div.container {
 .bg-white {
   background-color: white;
 }
+
+.img_profile {
+  max-width: 75%
+}
