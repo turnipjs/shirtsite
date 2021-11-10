@@ -17,8 +17,8 @@ people:
   pic: 2
   position: Printer
   social:
-    - title: twitter
-      url: https://twitter.com/charliemoonen
+    - title: instagram
+      url: https://instagram.com/eatingisthebestpart
     - title: github
       url: https://github.com/turnipjs
 
@@ -27,8 +27,8 @@ people:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 715 Harriet Ave
-  - line: Shoreview, MN 55126
+  - line: 2428 Delaware St SE
+  - line: Minneapolis, MN 55414
 
 # Build settings
 markdown: kramdown
