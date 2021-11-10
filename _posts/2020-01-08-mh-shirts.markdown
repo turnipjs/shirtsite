@@ -1,0 +1,17 @@
+---
+title: MinneHack 2020 Shirts
+subtitle: For ACM UMN (University of Minnesota)
+layout: default
+modal-id: 3
+date: 2020-01-08
+img: greenshirt.jpg
+thumbnail: greenshirt.jpg
+alt: MinneHack 2020 Shirts for ACM UMN (University of Minnesota).
+project-date: Jan 2020
+client: ACM UMN
+client-link: https://acm.umn.edu
+work-link: \#
+category: ACM UMN
+description: A large print run of 375 shirts between 4 different designs. Water-based on cotton shirts.
+
+---
