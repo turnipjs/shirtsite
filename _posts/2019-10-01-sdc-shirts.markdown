@@ -1,5 +1,5 @@
 ---
-title: Software Design Competition 2020 Shirts
+title: Software Design Competition 2019 Shirts
 subtitle: For ACM UMN (University of Minnesota)
 layout: default
 modal-id: 3
